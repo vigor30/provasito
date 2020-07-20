@@ -1,2 +1,11 @@
-# Home
-ora copio tutto
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: introduction.md
+
+- title: Configuration
+  url: configuration.md
+
+- title: Deployment
+  url: deployment.md
